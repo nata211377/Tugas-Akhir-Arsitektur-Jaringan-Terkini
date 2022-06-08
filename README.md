@@ -51,7 +51,7 @@ Disini saya akan menjalaskan 4 bagian utama dari tugas akhir matakuliah arsiteku
 <p align="center"> <img src="picture/Screenshot_9.png" style="width:65%"/>
 
 - kali ini kita tidak dapat melakukan ping antar host dikarenakan belum adanya flow. selanjutnya kita akan membuat flow agar host dapat berhubungan satu dengan lainnya dengan perintah pada mininet yanga da di file Perintah_flow.txt. Jika telah berhasil tampilan akan sebagai berikut: 
-<p align="center"> <img src="picture/Screenshot_10.png" style="width:800%"/>
+<p align="center"> <img src="picture/Screenshot_10.png" style="width:65%"/>
 
 - lalu kita coba test ping semuanya dengan perrintah yang ada dimininet yaitu `pingall`. Jika telah sukses akan terlihat seperti gambar dibawah tidak ada dara yang droped atau semunya telah menerima data.
 <p align="center"> <img src="picture/Screenshot_11.png" style="width:65%"/>
